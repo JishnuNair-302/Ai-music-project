@@ -1,0 +1,22 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 20px;
+}
+.Note{
+font-size: 15px;
+color: purple;
+}
+body{
+    background-size:cover;
+}
+#songName{
+    
+    width: 300px;
+    
+}
+canvas{
+    width:200px;
+    height:200px;
+
+}
